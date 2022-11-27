@@ -11,7 +11,8 @@
                     "id": "ed2073bd-c6fe-42a1-926b-6b767f89baff",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Menu Pressed",
@@ -19,7 +20,8 @@
                     "id": "f3f131f7-587f-4037-9f17-790aaa2fe45c",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Back",
@@ -27,7 +29,8 @@
                     "id": "1d94b983-91af-4800-af13-3f567a212d64",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Primary Button Touched",
@@ -35,7 +38,8 @@
                     "id": "c9716f43-0b1f-452b-a15e-30dcc9ba1066",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Primary Button Pressed",
@@ -43,7 +47,8 @@
                     "id": "a2ae52c3-7207-4fbc-852f-2021ccf32835",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Secondary Button Touched",
@@ -51,7 +56,8 @@
                     "id": "b27b2f10-e9b3-4894-a9ac-dbe2846646c8",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Secondary Button Pressed",
@@ -59,7 +65,8 @@
                     "id": "c85167c1-42bf-43b5-92ae-3024a9c617f0",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Trigger Pressed",
@@ -67,7 +74,8 @@
                     "id": "7176fbf2-d63b-4d5d-8456-844dd623e3ab",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Trigger Axis",
@@ -75,7 +83,8 @@
                     "id": "2dca5048-5503-4ac8-8a38-ae40abcf1566",
                     "expectedControlType": "Axis",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Left Grip Pressed",
@@ -83,7 +92,8 @@
                     "id": "277fdbb0-245f-4345-90e9-53c99611e8a4",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Grip Axis",
@@ -91,7 +101,8 @@
                     "id": "701f1a32-37a5-45f2-ade5-91cb8bd5b0d7",
                     "expectedControlType": "Axis",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Left Thumbstick Touched",
@@ -99,7 +110,8 @@
                     "id": "7368d246-9783-420f-9e21-4a3f37fc7885",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Thumbstick Pressed",
@@ -107,7 +119,8 @@
                     "id": "5a0ee7b4-0d59-4764-8ddf-216b339ddf7b",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Thumbstick Axis",
@@ -115,7 +128,8 @@
                     "id": "a7c86e97-579b-4eb7-9024-93694615effd",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Left Touchpad Touched",
@@ -123,7 +137,8 @@
                     "id": "dfd596b0-b8da-44af-8e71-8a65f6dda55b",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Touchpad Pressed",
@@ -131,7 +146,8 @@
                     "id": "02ba91d9-5bcc-4bd1-91ae-4a51bc4d5281",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Left Touchpad Axis",
@@ -139,7 +155,8 @@
                     "id": "91307b7f-1208-4338-8088-b0977ddf7def",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Right Home Pressed",
@@ -147,7 +164,8 @@
                     "id": "07b254a7-9c6a-41b4-95b5-1e56485edb57",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Menu Pressed",
@@ -155,7 +173,8 @@
                     "id": "12b063ad-5653-420f-bdc7-250f855857dc",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Back",
@@ -163,7 +182,8 @@
                     "id": "0ebf30f2-3478-4c1e-934b-2d609c06b090",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Primary Button Touched",
@@ -171,7 +191,8 @@
                     "id": "78e4abd5-2b5e-4998-8bd9-7daaacfd167b",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Primary Button Pressed",
@@ -179,7 +200,8 @@
                     "id": "fc363e57-1a27-4ca8-9bf3-8fe9d8650467",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Secondary Button Touched",
@@ -187,7 +209,8 @@
                     "id": "32e567d4-fe6b-492e-a3e6-3000e6d6c318",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Secondary Button Pressed",
@@ -195,7 +218,8 @@
                     "id": "5fdacbea-e09b-4f3b-9e9e-f4f81348a3db",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Trigger Pressed",
@@ -203,7 +227,8 @@
                     "id": "5ef10729-9944-4972-8e35-95405ba95f1e",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Trigger Axis",
@@ -211,7 +236,8 @@
                     "id": "7610e470-5a69-40d7-ac47-e57edd615b34",
                     "expectedControlType": "Axis",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Right Grip Pressed",
@@ -219,7 +245,8 @@
                     "id": "706ad657-2fa5-46cd-b519-c53bf2de151d",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Grip Axis",
@@ -227,7 +254,8 @@
                     "id": "1f58bfd8-abcd-431b-befe-352c4e464f22",
                     "expectedControlType": "Axis",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Right Thumbstick Touched",
@@ -235,7 +263,8 @@
                     "id": "538130ae-e2d1-4ce8-bbd4-5eb81a2e0492",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Thumbstick Pressed",
@@ -243,7 +272,8 @@
                     "id": "bb45b9d9-60f0-4a19-8cdf-052d9718e22e",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Thumbstick Axis",
@@ -251,7 +281,8 @@
                     "id": "dcb62131-7b02-4b5c-b086-c288569c0f7f",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Right Touchpad Touched",
@@ -259,7 +290,8 @@
                     "id": "7e1740b7-37a7-42fe-9d35-e2ea0e1340dd",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Touchpad Pressed",
@@ -267,7 +299,8 @@
                     "id": "787926ac-c187-48d1-9342-50f096b95154",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Right Touchpad Axis",
@@ -275,7 +308,26 @@
                     "id": "e9abf06e-24a8-473e-a98b-b8a401b65f31",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Toggle",
+                    "type": "Button",
+                    "id": "4db5af46-4641-4ff2-a787-25e2e41ccd31",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Teleport1",
+                    "type": "Button",
+                    "id": "1221cce7-e6b8-43c3-b257-1bc62b27532e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -650,6 +702,28 @@
                     "processors": "StickDeadzone",
                     "groups": "",
                     "action": "Right Thumbstick Axis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "add890e2-d7ba-426a-a696-6d35b74ef6ae",
+                    "path": "<XRController>{RightHand}/primary",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Toggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "08f7537f-de9c-4f2f-b24e-5bd49324dc9a",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Teleport1",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

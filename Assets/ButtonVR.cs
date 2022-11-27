@@ -45,7 +45,7 @@ public class ButtonVR : MonoBehaviour
     }
     public void Spawn()
     {
-        GameObject newObject = Instantiate(objectToSpawn, new Vector3(transform.position.x-.9f, transform.position.y, transform.position.z), transform.rotation);
+        GameObject newObject = Instantiate(objectToSpawn, new Vector3(transform.position.x-.6f, transform.position.y, transform.position.z), transform.rotation);
         //item.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
         //objectToSpawn.transform.localPosition = new Vector3(-0.067f, -0.647f, 3.212f);
         //item.AddComponent<Rigidbody>(); 

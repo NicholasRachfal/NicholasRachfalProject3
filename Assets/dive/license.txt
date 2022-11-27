@@ -1,0 +1,11 @@
+Model Information:
+* title:	diving helmet(CC0)
+* source:	https://sketchfab.com/3d-models/diving-helmetcc0-f85b8c2149c24a4a8b86c7b7df7be254
+* author:	WuYin (https://sketchfab.com/WuYinCC03D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "diving helmet(CC0)" (https://sketchfab.com/3d-models/diving-helmetcc0-f85b8c2149c24a4a8b86c7b7df7be254) by WuYin (https://sketchfab.com/WuYinCC03D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
